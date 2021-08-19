@@ -1,0 +1,62 @@
+{
+  "Sidebar": {
+    "Profile": {
+      "Name": "Siddharth Sameer",
+      "Image": "https://i.imgur.com/9dfgPJQl.jpeg",
+      "Role": "Student"
+    },
+    "Contactinfo": [
+      {
+        "Icon": "phone",
+        "Text": "+1 234 567 89"
+      },
+      {
+        "Icon": "envelope",
+        "Text": "email@gmail.com"
+      },
+      {
+        "Icon": "globe",
+        "Text": "www.mywebsite.com"
+      },
+      {
+        "Icon": "linkedin",
+        "Text": "www.linkedin/me"
+      },
+      {
+        "Icon": "map-marker",
+        "Text": "Moscow, Russia"
+      }
+    ],
+    "Education": [
+      {
+        "Years": "2010 - 2013",
+        "Degree": "Master Degree in Computer Science",
+        "Univ": "University Name 1"
+      },
+      {
+        "Years": "2007 - 2013",
+        "Degree": "Bachelor Degree Computer Science",
+        "Univ": "University Name 2"
+      },
+      {
+        "Years": "1997 - 2007",
+        "Degree": "Matriculation",
+        "Univ": "University Name 3"
+      }
+    ],
+    "Languages": [
+      {
+        "Name": "English",
+        "Mark": 70
+      },
+      {
+        "Name": "Hindi",
+        "Mark": 85
+      },
+      {
+        "Name": "German",
+        "Mark": 15
+      }
+    ]
+  }
+}
